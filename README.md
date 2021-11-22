@@ -7,7 +7,7 @@ In web dev I have most experience with frontend development, primarily [React](h
 I've also been very involved in game development focusing on low-level programming using [C++](https://www.cplusplus.com/) & peeking into the world of advanced graphics using industry standard frameworks such as [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) & [OpenGL](https://www.opengl.org/).
 
 ## 🔭 I’m currently working on ...
-At the time, i'm studying a Data Science and Mathematics degree! My current main project is trying to join my games and web dev skills, mainly by learning three.js.
+At the time, i'm studying a Data Science and Mathematics degree! My current main project is trying to join my games and web dev skills, mainly by learning [three.js](https://threejs.org/).
 
 ## 🪧 Contact
 For a fast response, please email me on: me@alexste.com
