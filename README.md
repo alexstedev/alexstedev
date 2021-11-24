@@ -10,4 +10,4 @@ I've also been very involved in game development focusing on low-level programmi
 At the time, i'm studying a Data Science and Mathematics degree! My current main project is trying to join my games and web dev skills, mainly by learning [three.js](https://threejs.org/).
 
 ## 🪧 Contact
-Contact me through my website: alexste.com
+Contact me through my website: [alexste.com](https://alexste.com)
