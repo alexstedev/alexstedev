@@ -1,9 +1,10 @@
 [![Presentation Image](assets/presentation.png)](https://alexste.com/)
 
 ### 🏔️ My learning experience 
-In web dev I have most experience with frontend development, I have worked extensively with HTML and CSS. At the moment, my efforts are directed towards learning [React](https://reactjs.org/) & [Vue.js](https://vuejs.org/). On the other hand, lately I have been focusing a lot more on backend development, primarily using [TypeScript](https://www.typescriptlang.org/) & exploring [Python](https://www.python.org/) and the [Django](https://www.djangoproject.com/) framework.
 
-Currently, I'm studying a Data Science and Mathematics degree!
+Currently, I'm studying Mathematics and Data science @ CFIS-UPC!
+
+Right now, I am very interested in the design of deep learning methods for effective tabular learning, graph machine learning and text diffusion.
 
 ### 🪧 Contact
 Contact me through my website: [alexste.com](https://alexste.com)
